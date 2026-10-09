@@ -199,7 +199,3 @@ Se cargan desde `data/datos_prueba.dart` al iniciar la app.
 - `DOCUMENTACION_ReNotes.docx`: documentación técnica completa (estructura, cada archivo, flujos, cumplimiento de requisitos y preguntas frecuentes).
 - `AppState_Metodos_ReNotes.docx`: explicación de cada método de `AppState`.
 
-## Alcance
-
-- Los datos viven solo en memoria: al cerrar la app se pierden.
-- El diseño de dos columnas para tablet que menciona `DESIGN.md` no está implementado, porque el documento de requisitos no lo pide.
