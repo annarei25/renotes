@@ -4,16 +4,6 @@ App móvil en Flutter para organizar notas de investigación por **proyectos** y
 
 Los datos viven en memoria mientras la app está abierta y se cargan desde datos de prueba al iniciar. La app usa solo el SDK de Flutter: no tiene paquetes externos.
 
-## Capturas
-
-| Proyectos | Notas del proyecto | Editor de nota |
-|---|---|---|
-| ![Proyectos](docs/capturas/01-proyectos.png) | ![Notas del proyecto](docs/capturas/02-notas-proyecto.png) | ![Editor de nota](docs/capturas/03-editor-nota.png) |
-
-| Autocompletado de etiquetas | Detalle de nota | Etiquetas | Buscar |
-|---|---|---|---|
-| ![Autocompletado](docs/capturas/04-autocompletado.png) | ![Detalle de nota](docs/capturas/05-detalle-nota.png) | ![Etiquetas](docs/capturas/06-etiquetas.png) | ![Buscar](docs/capturas/07-buscar.png) |
-
 ## Qué permite hacer
 
 - **Proyectos:** crear, editar y eliminar proyectos. Al eliminar uno se eliminan sus notas; las etiquetas se conservan.
